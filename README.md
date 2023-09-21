@@ -1,4 +1,11 @@
 # Hi, I'm Austin 👋
+
+
+<div>
+  <img src="images/curry.png" height="300"/>
+</div>
+^^ His name is Curry ^^
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/austin-nazworth/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,7 +13,12 @@
   <a href="https://www.instagram.com/austinnazworth/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt=" Badge"/>
   </a>
+   <a href="https://www.strava.com/athletes/10888988">
+    <img src="https://img.shields.io/badge/Strava-orange?style=for-the-badge&logo=strava&logoColor=white" alt=" Badge"/>
+  </a>
+  
 </div>
+
 
 ---
 
