@@ -30,9 +30,10 @@ I love creating ways to make life easier and I try to get 1% better every day!
 
 ---
 
-[![anazworth's GitHub stats](https://github-readme-stats.vercel.app/api?username=anazworth&hide_rank=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anazworth&show_icons=true&locale=en&theme=tokyonight&langs_count=8" alt="anazworth" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anazworth&langs_count=8&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anazworth&show_icons=true&locale=en&theme=tokyonight" alt="anazworth" /></p>
+
 <!--
 **anazworth/anazworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
